@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enrique Granados Martinez
+- 👋 Hi, I’m Enrique Granados Martinez
 - 👀 I’m interested in movile develop and backend
 
 <!---
